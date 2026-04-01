@@ -1,0 +1,15 @@
+C:\Users\ragha\OneDrive\Desktop\Nikitha\presidio-internship\c#-tasks\task-8\bin\Debug\net10.0\task-8.exe
+C:\Users\ragha\OneDrive\Desktop\Nikitha\presidio-internship\c#-tasks\task-8\bin\Debug\net10.0\task-8.deps.json
+C:\Users\ragha\OneDrive\Desktop\Nikitha\presidio-internship\c#-tasks\task-8\bin\Debug\net10.0\task-8.runtimeconfig.json
+C:\Users\ragha\OneDrive\Desktop\Nikitha\presidio-internship\c#-tasks\task-8\bin\Debug\net10.0\task-8.dll
+C:\Users\ragha\OneDrive\Desktop\Nikitha\presidio-internship\c#-tasks\task-8\bin\Debug\net10.0\task-8.pdb
+C:\Users\ragha\OneDrive\Desktop\Nikitha\presidio-internship\c#-tasks\task-8\obj\Debug\net10.0\task-8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ragha\OneDrive\Desktop\Nikitha\presidio-internship\c#-tasks\task-8\obj\Debug\net10.0\task-8.AssemblyInfoInputs.cache
+C:\Users\ragha\OneDrive\Desktop\Nikitha\presidio-internship\c#-tasks\task-8\obj\Debug\net10.0\task-8.AssemblyInfo.cs
+C:\Users\ragha\OneDrive\Desktop\Nikitha\presidio-internship\c#-tasks\task-8\obj\Debug\net10.0\task-8.csproj.CoreCompileInputs.cache
+C:\Users\ragha\OneDrive\Desktop\Nikitha\presidio-internship\c#-tasks\task-8\obj\Debug\net10.0\task-8.sourcelink.json
+C:\Users\ragha\OneDrive\Desktop\Nikitha\presidio-internship\c#-tasks\task-8\obj\Debug\net10.0\task-8.dll
+C:\Users\ragha\OneDrive\Desktop\Nikitha\presidio-internship\c#-tasks\task-8\obj\Debug\net10.0\refint\task-8.dll
+C:\Users\ragha\OneDrive\Desktop\Nikitha\presidio-internship\c#-tasks\task-8\obj\Debug\net10.0\task-8.pdb
+C:\Users\ragha\OneDrive\Desktop\Nikitha\presidio-internship\c#-tasks\task-8\obj\Debug\net10.0\task-8.genruntimeconfig.cache
+C:\Users\ragha\OneDrive\Desktop\Nikitha\presidio-internship\c#-tasks\task-8\obj\Debug\net10.0\ref\task-8.dll
